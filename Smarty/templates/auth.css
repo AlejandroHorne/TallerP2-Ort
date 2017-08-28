@@ -1,0 +1,11 @@
+
+.selected{
+    background: #3598eb;
+}
+
+#destacadoProducto{
+  display: inline-block;    
+  position: relative;
+  left: 80px;
+  top: 25px;
+}
